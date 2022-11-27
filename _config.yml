@@ -7,17 +7,15 @@ ios_app_country                           : nz                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://lightbeamapps.com/video2audio/presskit                                        # Enter a link to downloadable file or (e.g. public Dropbox 
-link to a .zip file). 
+# presskit_download_link                    : https://lightbeamapps.com/video2audio/presskit.zip                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Export movies to sound files
+app_description                           : Convert your movies to sound files
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
-
 
 # Information About Yourself
 your_name                                 : David Wood                                
@@ -26,22 +24,21 @@ your_city                                 : Wellington 🇳🇿
 email_address                             : support@lightbeamapps.zendesk.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : 
+twitter_username                          : lightbeamapps
 github_username                           : 
 youtube_username                          :
-
-
+mastodon_link                             : https://social.davidgarywood.com/@davidgarywood
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
   - title                                 : Convert your vodeos
     description                           : Import any video from your device's camera roll
-    fontawesome_icon_name                 : file-video-o
+    fontawesome_icon_name                 : file-video
     
   - title                                 : Trim audio
     description                           : Get that clip of audio just right
-    fontawesome_icon_name                 : scissors
+    fontawesome_icon_name                 : cut
 
   - title                                 : Export and save
     description                           : Save your audio clips within the app
@@ -66,7 +63,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#FF4500"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -75,24 +72,13 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#FF4500"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
+social_icons_foreground_color             : "#FF4500"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
-
-
 
 
 ####################################################

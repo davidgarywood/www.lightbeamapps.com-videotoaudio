@@ -1,27 +1,9 @@
 services:
-  web:
-    image: nginx
-    expose:
-      - 80
-    links:
-      - php
-    volumes:
-      - ./templates:/etc/nginx/templates
-      - ./:/usr/share/nginx/html:ro
+  jekyll:
+    image: jekyll/jekyll:latest
+#    command: jekyll serve --watch --force_polling --verbose --livereload
+    command: jekyll build
     ports:
-      - "80:80"
-    environment:
-      - NGINX_HOST=localhost
-      - NGINX_PORT=80
-    networks:
-      - internal
-  php:
-    image: php:fpm-alpine
-    networks:
-      - internal
+      - 4000:4000
     volumes:
-      - ./:/usr/share/nginx/html:ro
-
-networks:
-  internal:
-     driver: bridge
+      - .:/srv/jekyll

@@ -1,65 +1,42 @@
 ---
 layout: page
-title: What's New
+title: Press Kit
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# Press Release
 
-<br>
+## Video to Audio, for iPhone® and iPad® from  [Lightbeam Apps](https://lightbeamapps.com)
+We’ve all had that moment. You have a video, but, you _just_ want its audio. 
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+**Welcome to Video to Audio.**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Video to Audio lets you simply import your videos from your camera roll and export them out to audio files.
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+# 1.0 - Dec 2022
+The very first release of the app, this brings all of the goodness. A slick UI made from the latest in iOS technologies lets you trim and select just the audio you want from the video you have.
 
-<br>
+# Video to Audio Features
+Simple trimming and editing
+One tap export
+Keep your exported audio files in the app for future sharing
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+# Premium Features
+Export audio over 1 minute in length
+Keep unlimited exported audio files in your app’s Recordings folder
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+# Availability
+Video to Audio is available via the App Store worldwide as a free download, with a pro in app purchase to unlock all features.
 
-<br>
+Pro pricing starts at $
 
-________
-<br>
+Video to Audio is designed for iPhone and iPad. GoVJ requires iOS 16 or newer.
+ [Download here](https://itunes.apple.com/us/app/videotoaudio/1641026220) 
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+# Additional Information
+A limited number of Promotional Codes are available to members of the media. Journalists interested in receiving one should contact David Wood, Owner –  [Contact Here](http://govjapp.com/contact) 
 
-<br>
+Screenshots, icons and other related media are available for download from here:  [https://lightbeamapps.com/videotoaudio/presskit.zip](https://lightbeamapps.com/videotoaudio/presskit.zip) 
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
+# About Lightbeam Apps
+ [Lightbeam Apps](https://lightbeamapps.com/)  is the New Zealand based software development company of David Gary Wood.
