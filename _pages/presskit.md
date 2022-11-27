@@ -17,11 +17,11 @@ Video to Audio lets you simply import your videos from your camera roll and expo
 The very first release of the app, this brings all of the goodness. A slick UI made from the latest in iOS technologies lets you trim and select just the audio you want from the video you have.
 
 # Video to Audio Features
-Simple trimming and editing
-One tap export
-Keep your exported audio files in the app for future sharing
+* Simple trimming and editing
+* One tap export
+* Keep your exported audio files in the app for future sharing
 
-# Premium Features
+# Pro Features
 Export audio over 1 minute in length
 Keep unlimited exported audio files in your app’s Recordings folder
 
