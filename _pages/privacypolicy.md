@@ -37,7 +37,7 @@ The meta data Video to Audio sends for these analytics is as follows:
 * Which screen the user has seen (Help screen, Settings screen, etc)
 * Which app has been selected in the “More Apps” section
 * Whether the user has visited the unlock pro section
- 
+
 # Apple analytics and data
 Video to Audio uses Apple App store analytics in order to record sales volumes, user opt-in analytics, and crash reporting information.
 
