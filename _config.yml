@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Convert your vodeos
     description                           : Import any video from your device's camera roll
-    fontawesome_icon_name                 : fa-file-video-o
+    fontawesome_icon_name                 : headphones
     
   - title                                 : Trim audio
     description                           : Get that clip of audio just right
-    fontawesome_icon_name                 : fa-scissors
+    fontawesome_icon_name                 : headphones
 
   - title                                 : Export and save
     description                           : Save your audio clips within the app
