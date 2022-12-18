@@ -36,7 +36,7 @@ mastodon_link                             : https://social.davidgarywood.com/@da
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Convert your vodeos
+  - title                                 : Convert your videos
     description                           : Import any video from your device's camera roll
     fontawesome_icon_name                 : file-video
     
